@@ -2,4 +2,3 @@
 CODEOWNERS
 __pycache__/
 data/
-my_model.h5
