@@ -13,9 +13,7 @@
 This also containes *optional* exercises that extends this project so that it works on video and allows to implement fun face filters in real-time!
 
 
-## Project Instructions
-
-### Geting started
+## Geting started
 
 1. You should have python and opnen cv installed other than deep learning libraries. if not then follow the instruction here to setup environment.
 
